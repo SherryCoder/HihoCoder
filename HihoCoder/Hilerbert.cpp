@@ -27,10 +27,10 @@ long long HilbertNumber(int n ,int x ,int y){
 	}
 }
 
-int main(){
-	int n,x,y;
-	cin >> n >> x >> y;
-	long long result = HilbertNumber(n,x,y);
-	cout<<result<<endl;
-	return 0;
-}
+//int main(){
+//	int n,x,y;
+//	cin >> n >> x >> y;
+//	long long result = HilbertNumber(n,x,y);
+//	cout<<result<<endl;
+//	return 0;
+//}
