@@ -54,20 +54,20 @@ int SortzeroOneString_two(string zeroOne){
 	return mintime;
 }
 
-int main(){
-	int T;
-	cin>>T;
-	string zeroOne;
-	vector<int> result;
-	while(T){
-		cin>>zeroOne;
-		int mintimes;
-		mintimes = SortzeroOneString(zeroOne);
-		result.push_back(mintimes);
-		T--;
-	}
-	for(int i = 0;i < result.size();i++){
-		cout<<result[i]<<endl;
-	}
-	return 0;
-}
+//int main(){
+//	int T;
+//	cin>>T;
+//	string zeroOne;
+//	vector<int> result;
+//	while(T){
+//		cin>>zeroOne;
+//		int mintimes;
+//		mintimes = SortzeroOneString(zeroOne);
+//		result.push_back(mintimes);
+//		T--;
+//	}
+//	for(int i = 0;i < result.size();i++){
+//		cout<<result[i]<<endl;
+//	}
+//	return 0;
+//}

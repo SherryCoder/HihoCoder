@@ -76,6 +76,11 @@
   <ItemGroup>
     <ClCompile Include="Hilerbert.cpp" />
     <ClCompile Include="sequence01string.cpp" />
+    <ClCompile Include="splitSameChar.cpp" />
+    <ClCompile Include="terminator.cpp" />
+    <ClCompile Include="theatreSeat.cpp" />
+    <ClCompile Include="time.cpp" />
+    <ClCompile Include="time_others.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
