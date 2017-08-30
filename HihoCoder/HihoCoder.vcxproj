@@ -75,6 +75,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hilerbert.cpp" />
+    <ClCompile Include="RichMan.cpp" />
     <ClCompile Include="sequence01string.cpp" />
     <ClCompile Include="splitSameChar.cpp" />
     <ClCompile Include="terminator.cpp" />
