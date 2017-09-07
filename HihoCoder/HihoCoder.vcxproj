@@ -74,7 +74,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1493gedebahe.cpp" />
+    <ClCompile Include="1558ID1.cpp" />
+    <ClCompile Include="FleeMaze.cpp" />
     <ClCompile Include="Hilerbert.cpp" />
+    <ClCompile Include="ID1560.cpp" />
+    <ClCompile Include="otherID1560.cpp" />
     <ClCompile Include="RichMan.cpp" />
     <ClCompile Include="sequence01string.cpp" />
     <ClCompile Include="splitSameChar.cpp" />
