@@ -74,7 +74,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1369FordFulkerson.cpp" />
+    <ClCompile Include="1487Island3.cpp" />
     <ClCompile Include="1493gedebahe.cpp" />
+    <ClCompile Include="1531GermanHeart.cpp" />
+    <ClCompile Include="1534ArrayPartition.cpp" />
     <ClCompile Include="1558ID1.cpp" />
     <ClCompile Include="FleeMaze.cpp" />
     <ClCompile Include="Hilerbert.cpp" />
@@ -84,6 +88,7 @@
     <ClCompile Include="sequence01string.cpp" />
     <ClCompile Include="splitSameChar.cpp" />
     <ClCompile Include="terminator.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="theatreSeat.cpp" />
     <ClCompile Include="time.cpp" />
     <ClCompile Include="time_others.cpp" />
