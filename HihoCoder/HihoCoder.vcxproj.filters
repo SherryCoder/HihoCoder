@@ -69,5 +69,14 @@
     <ClCompile Include="1369FordFulkerson.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="1378MaxflowMincut.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1077SegmentTree.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1070RMQII.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

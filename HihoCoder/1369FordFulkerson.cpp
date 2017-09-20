@@ -1,5 +1,6 @@
 //网络流的题目，求最大流，使用了ford-fulkerson方法
 //检测网咯中的增广路径，若存在增广路径，就更新残差网络
+//解决网络流的基本思路就是寻找增广路，不断更新残留网络，直到找不到新的增广路，此时得到的流就是该网络的最大流
 //#include<iostream>
 //#include<vector>
 //using namespace std;

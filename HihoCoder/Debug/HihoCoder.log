@@ -1,15 +1,19 @@
-﻿Build started 9/14/2017 10:31:00 PM.
+﻿Build started 9/20/2017 10:01:03 PM.
      1>Project "F:\sgy_vs\HihoCoder\HihoCoder\HihoCoder.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\HihoCoder.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 1369FordFulkerson.cpp
-         1369FordFulkerson.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 1070RMQII.cpp
+         1070RMQII.cpp
+     1>f:\sgy_vs\hihocoder\hihocoder\1070rmqii.cpp(5): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\sgy_vs\HihoCoder\HihoCoder\Debug\HihoCoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HihoCoder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\sgy_vs\HihoCoder\HihoCoder\Debug\HihoCoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\sgy_vs\HihoCoder\HihoCoder\Debug\HihoCoder.lib" /MACHINE:X86 Debug\HihoCoder.exe.embed.manifest.res
+         Debug\1070RMQII.obj
+         Debug\1077SegmentTree.obj
          Debug\1369FordFulkerson.obj
+         Debug\1378MaxflowMincut.obj
          Debug\1487Island3.obj
          Debug\1493gedebahe.obj
          Debug\1531GermanHeart.obj
@@ -40,4 +44,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.60
+Time Elapsed 00:00:00.64
