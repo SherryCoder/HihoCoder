@@ -76,6 +76,7 @@
   <ItemGroup>
     <ClCompile Include="1070RMQII.cpp" />
     <ClCompile Include="1077SegmentTree.cpp" />
+    <ClCompile Include="1078SegmentTreeModify.cpp" />
     <ClCompile Include="1369FordFulkerson.cpp" />
     <ClCompile Include="1378MaxflowMincut.cpp" />
     <ClCompile Include="1487Island3.cpp" />
